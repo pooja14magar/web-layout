@@ -86,7 +86,7 @@ article {
 }
 
 .service-box {
-  border: 2px solid back;
+  border: 2px solid black;
   flex-basis: 32%;
   padding: 10px;
   max-width: 370px;
